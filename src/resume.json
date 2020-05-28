@@ -1,31 +1,32 @@
 {
   "basics": {
-    "name": "Vladimir Skok",
-    "label": "Frontend Engineer",
-    "email": "skok@vova.io",
-    "phone": "(609) 666-4644",
-    "website": "linkedin.com",
-    "summary": "Organized and motivated frontend developer seeking to work closely with a team of experienced engineers to craft a product that has an impact.",
+    "name": "Jacob Isaacson",
+    "label": "Full-Stack Developer",
+    "email": "jacobbisaacson@gmail.com",
+    "phone": "(847) 220-9811",
+    "website": "https://www.linkedin.com/in/jacobbisaacson/",
+    "website-2": "https://www.jacobbisaacson.com",
+    "summary": "Results driven leader with experience in private equity, real estate, hospitality and managment seeking a software enginnering role to leverage key new strengths.",
     "location": {
-      "postalCode": "93101",
-      "city": "San Diego",
+      "postalCode": "60610",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": "SD"
+      "region": "IL"
     },
-    "pdf": "vladimir-skok.pdf"
+    "pdf": "https://jacobbisaacson.files.wordpress.com/2020/05/ji-resume-2020.pdf"
   },
   "work": [
     {
-      "company": "Freelance",
+      "company": "General Assembly",
       "current": false,
-      "position": "Frontend Engineer",
-      "startDate": "August 2017",
-      "endDate": "January 2019",
-      "summary": "Various projects utilizing ES6, Gatsby, Sass and WordPress.",
+      "position": "Software Engineering Immersive Graduate",
+      "startDate": "February 2020",
+      "endDate": "May 2020",
+      "summary": "General Assembly's Software Engineer Immersive Student with 500+ hours of in-class learning complmented with research and sel-taught skills.  Worked on a toal of 5 projects, 4 of them full-stack applications and 1 pair-programmed.",
       "highlights": [
-        "Improved client's development workflow by incorpating modern tools like: Webpack, Gulp, ESLint, Prettier, Jest, Ansible and others.",
-        "Ensure that the developing codebase conforms to best practices with regard to coding standards.",
-        "A/B tested multiple CTA components and improved conversions by 23%"
+        "Built several web apps using JavaScript, React, Python, Flask, SQL, Node.js, Express, MongoDB, HTML, and CSS.",
+        "Learned both the frontend and backend and how to make them communicate.",
+        "Grew as a software engineer, and realized how much I love coding!"
       ]
     },
     {
